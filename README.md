@@ -1,7 +1,2 @@
-# GYM-backend
-
-## Authors
-
-TETA Precious 
-Basile Dembe
-
+# GY-backend
+# GY-backend

@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 const mongoURI =
-  "mongodb+srv://tpambrose0:yrOJqW5IvqUU5caH@cluster0.6yrtgjh.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://shejaemeric051:dKEP7xOAaDi1QGAW@project.yjqodfk.mongodb.net/?retryWrites=true&w=majority";
 
 mongoose.connect(mongoURI, { useNewUrlParser: true, useUnifiedTopology: true });
 
